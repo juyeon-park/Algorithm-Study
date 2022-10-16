@@ -34,5 +34,5 @@
 - Baekjoon_문제번호_문제명
 
 ### Pull Request
-- Baekjoon_문제번호_이름
+- Baekjoon_문제번호_문제명_이름
 
