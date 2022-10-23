@@ -28,7 +28,7 @@
 - Baekjoon/이름/챕터/문제번호_문제명.py
 
 ### Branch
-- 이름_baekjoon_문제번호
+- 이름_baekjoon_챕터or날짜
 
 ### Commit Message
 - Baekjoon_문제번호_문제명
