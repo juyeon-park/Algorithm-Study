@@ -7,4 +7,4 @@ for i in num:
     x = x + i
     time.append(x)
 
-print(sum(num))
+print(sum(time))
